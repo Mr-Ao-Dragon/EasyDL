@@ -1,3 +1,0 @@
-[console_scripts]
-easyconvert = EasyConvert.easyconvert:main
-easytrain = EasyTrain.run:main
