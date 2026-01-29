@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+venv.bak/
+.env
+
+# PyInstaller
+*.spec
+# PyInstaller build dirs
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# pipenv
+Pipfile.lock
+
+# coverage
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# local settings
+.env.local
+
+# node
+node_modules/
+
+# egg-info
+easy-xedu/*.egg-info/
+
+# jars, binaries
+*.exe
+*.dll
+*.so
+
+# notebook checkpoints
+.ipynb_checkpoints/
